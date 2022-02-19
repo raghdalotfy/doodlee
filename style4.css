@@ -28,7 +28,7 @@ h2{
 /* HEADER STYLING */
 
 header {
-    background-color: #459CD3;
+    background-color: #ffffff;
     height: 180px;
     font-family: hobo-std, sans-serif;
     font-weight: 400;
@@ -113,7 +113,7 @@ button.account  {
 .menu-buttons-2 {
 	width: inherit;
 	position: relative;
-	bottom: 24%;
+	bottom: 70%;
 }
 
 .menu-box-text-2 h3 {
@@ -213,14 +213,14 @@ button.account  {
 
 .tagline {
 	height: 480px;
-	background-color: #fae3f5;
+	background-color: #ffffff;
 }
 
 .tagline h2 {
 	width: 100%;	
 	max-width: 100%;
 	font-size: 4vw;
-	background-color: #fae3f5;
+	background-color: #ffffff;
 	color: #a274b2;
 	text-align: center;
 	text-transform: uppercase;
@@ -261,6 +261,7 @@ button.account  {
 }
 
 .homepage-images {
+	background-color: #ffffff;
 	height: 100%;
 	width: 100%;
 }
@@ -326,7 +327,7 @@ body {
 }	
 	
 header {
-    background-color: #459CD3;
+    background-color: #ffffff;
     height: 112px;
     font-family: hobo-std, sans-serif;
     font-weight: 400;
@@ -471,14 +472,14 @@ button.account  {
 	
 .tagline {
 	height: 480px;
-	background-color: #fae3f5;
+	background-color: #ffffff;
 }
 
 .tagline h2 {
 	width: 100%;	
 	max-width: 100%;
 	font-size: 7vw;
-	background-color: #fae3f5;
+	background-color: #ffffff;
 	color: #a274b2;
 	text-align: center;
 	text-transform: uppercase;
@@ -519,6 +520,7 @@ button.account  {
 }
 
 .homepage-images {
+	background-color: #ffffff;
 	height: 100%;
 	width: 120%;
 }
@@ -587,7 +589,7 @@ body {
 }	
 	
 header {
-    background-color: #459CD3;
+    background-color: #ffffff;
     height: 124px;
     font-family: hobo-std, sans-serif;
     font-weight: 400;
@@ -731,6 +733,7 @@ button.account  {
 }
 	
 .homepage-images {
+	background-color: #ffffff;
 	height: 50%;
 	width: 100%;
 }
@@ -769,7 +772,7 @@ body {
 }	
 	
 header {
-    background-color: #459CD3;
+    background-color: #ffffff;
     height: 174px;
     font-family: hobo-std, sans-serif;
     font-weight: 400;
@@ -917,14 +920,14 @@ button.account  {
 
 .tagline {
 	height: 480px;
-	background-color: #fae3f5;
+	background-color: #ffffff;
 }
 
 .tagline h2 {
 	width: 100%;	
 	max-width: 100%;
 	font-size: 4vw;
-	background-color: #fae3f5;
+	background-color: #ffffff;
 	color: #a274b2;
 	text-align: center;
 	text-transform: uppercase;
@@ -965,6 +968,7 @@ button.account  {
 }
 
 .homepage-images {
+	background-color: #ffffff;
 	width: 100%;
 }
 
@@ -1039,7 +1043,7 @@ h2{
 /* HEADER STYLING */
 
 header {
-    background-color: #459CD3;
+    background-color: #ffffff;
     height: 180px;
     font-family: hobo-std, sans-serif;
     font-weight: 400;
@@ -1224,14 +1228,14 @@ button.account  {
 
 .tagline {
 	height: 480px;
-	background-color: #fae3f5;
+	background-color: #ffffff;
 }
 
 .tagline h2 {
 	width: 100%;	
 	max-width: 100%;
 	font-size: 4vw;
-	background-color: #fae3f5;
+	background-color: #ffffff;
 	color: #a274b2;
 	text-align: center;
 	text-transform: uppercase;
@@ -1272,6 +1276,7 @@ button.account  {
 }
 
 .homepage-images {
+	background-color: #ffffff;
 	height: 100%;
 	transform: translateY(0%);
 }
