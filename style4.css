@@ -18,7 +18,7 @@ body {
 	height: 100%;
 }
 
-h2{
+h1 {
     font-family: Oswald;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -216,7 +216,7 @@ button.account  {
 	background-color: #ffffff;
 }
 
-.tagline h2 {
+.tagline h1 {
 	width: 100%;	
 	max-width: 100%;
 	font-size: 4vw;
@@ -475,7 +475,7 @@ button.account  {
 	background-color: #ffffff;
 }
 
-.tagline h2 {
+.tagline h1 {
 	width: 100%;	
 	max-width: 100%;
 	font-size: 7vw;
@@ -923,7 +923,7 @@ button.account  {
 	background-color: #ffffff;
 }
 
-.tagline h2 {
+.tagline h1 {
 	width: 100%;	
 	max-width: 100%;
 	font-size: 4vw;
@@ -1033,7 +1033,7 @@ body {
     font-family: Lato;
 }
 
-h2{
+h1 {
     font-family: Oswald;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -1231,7 +1231,7 @@ button.account  {
 	background-color: #ffffff;
 }
 
-.tagline h2 {
+.tagline h1 {
 	width: 100%;	
 	max-width: 100%;
 	font-size: 4vw;
